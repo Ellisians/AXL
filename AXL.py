@@ -18,7 +18,7 @@ Write.Print('''
 ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║       ██╔══██║    ██╔██╗    ██║
 ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║       ██║  ██║██╗██╔╝ ██╗██╗███████╗
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝       ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-                                                           Made By: Ellisians\n''',
+                                                           Made By: nieakos\n''',
             color=Colors.white_to_blue, interval=0.0)
 Token = Write.Input('Token To Sniff:', color=Colors.white_to_blue, interval=0.01)
 System('cls')
